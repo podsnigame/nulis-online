@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./bin/www",
-    "zaa": "nodemon ./bin/www",
+    "zaa": "nodemon ./bin/www"
   },
   "keywords": [
     "nulis online",
@@ -30,7 +30,7 @@
   "bugs": {
         "url": "https://github.com/zaadevofc/nulis-online/issues"
     },
-   "homepage": "https://nulis-zaadev.vercel.app"
+   "homepage": "https://nulis-zaadev.vercel.app",
   "dependencies": {
     "axios": "^0.26.0",
     "cookie-parser": "^1.4.6",
